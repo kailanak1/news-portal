@@ -1,3 +1,18 @@
+## Readme
+
+This is a tutorial project for using fetches to Newsapi.org. 
+
+## Tech used 
+-React.js 
+
+
+## Getting started 
+1. Download the project 
+2. Type npm i in the project's directory 
+3. You will need to get an API key from newsapi.org
+4. Paste your API key in News.js where the API key variable is 
+5. Run npm start and navigate to your web browser
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
