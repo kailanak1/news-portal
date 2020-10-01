@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
-import News from './News/News'
-import Sidenews from './News/Sidenews'
+import News from './News/News';
+import Sidenews from './News/Sidenews';
 
 class App extends Component {
   constructor(){
