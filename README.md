@@ -10,8 +10,9 @@ This is a tutorial project for using fetches to Newsapi.org.
 1. Download the project 
 2. Type npm i in the project's directory 
 3. You will need to get an API key from newsapi.org
-4. Paste your API key in News.js where the API key variable is 
-5. Run npm start and navigate to your web browser
+4. Rename env.sample file to `.env`
+5. Replace `123456789` with your API Key.
+6. Run npm start and navigate to your web browser
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
